@@ -1,0 +1,23 @@
+{
+    "test":false,
+    "es_host":"61.78.63.51",
+    "es_port":9200,
+    "es_user":"bax",
+    "es_password":"bax1234",
+    "es_timeout":3600,
+    "es_max_retries":3,
+    "es_retry_on_timeout":true,
+    "db_host":"1.213.180.227",
+    "db_port":null,
+    "db_user":"kms",
+    "db_password":"Kms5380058!",
+    "db_database":"kms",
+    "db_connect_timeout":3600,
+    "processes":10,
+    "file_save":true,
+    "es_save":false,
+    "file_log_update":true,
+    "db_log_update":false,
+    "console_print":true,
+    "start_date":"2022.11.30"
+}
